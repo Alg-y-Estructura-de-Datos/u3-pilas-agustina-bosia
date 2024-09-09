@@ -4,7 +4,14 @@ palabra invertida.
 */
 using namespace std;
 
+void funcion(){
+
+}
+
 int main() {
+    string character;
+    cout<<"introduzca la palabra \n";
+    getline(cin,character);
 
     cout << "Ejercicio N° 1" << endl;
 
